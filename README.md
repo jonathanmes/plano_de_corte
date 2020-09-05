@@ -1,0 +1,1 @@
+O presente projeto tem como objetivo ser um programa de plano de corte de barras
