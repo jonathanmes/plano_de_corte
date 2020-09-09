@@ -24,4 +24,3 @@ class CorteLinear:
         peso_todo = (peso_m * calc_corte) / 1000
         print("O peso total da barra é de {:.2f} Kg".format(peso_t))
         print("O peso total das barras é {:.2f} Kg".format(peso_todo))
-        
